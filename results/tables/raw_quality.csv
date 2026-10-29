@@ -1,0 +1,25 @@
+check,result
+rows_in_file,8518763
+unparsable_timestamps,0
+first_timestamp,2013-10-09 14:06:17
+last_timestamp,2015-07-10 11:56:32
+out_of_order_rows,2
+rows_with_duplicate_timestamp,2167063
+identical_duplicate_rows,1623631
+duplicate_timestamps_with_conflicting_aggregate,217376
+median_interval_s,7.0
+share_interval_eq_median,0.23582833154116323
+p95_interval_s,13.0
+intervals_over_60s,4040
+intervals_over_1h,21
+longest_interval_h,998.4483333333334
+clean_impossible_values_set_to_nan,3952
+clean_duplicate_rows_merged_by_mean,1211048
+clean_minutes_total,920031
+clean_minutes_without_any_reading_before_fill,115131
+clean_aggregate_minutes_interpolated,588
+clean_outage_runs_flagged,448
+clean_outage_minutes_flagged,114543
+clean_longest_outage_h,998.4333333333333
+files,"RAW_House1_Part1.csv, RAW_House1_Part2.csv"
+columns,"['Aggregate', 'Appliance1', 'Appliance2', 'Appliance3', 'Appliance4', 'Appliance5', 'Appliance6', 'Appliance7', 'Appliance8', 'Appliance9']"

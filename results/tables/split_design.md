@@ -1,0 +1,10 @@
+| house | data_from | data_to | validation_block_starts | role |
+|---|---|---|---|---|
+| 1 | 2013-10-09 | 2015-07-10 | 2015-02-20 | test (once, as held-out house) / train (other folds) |
+| 2 | 2013-09-17 | 2015-05-28 | 2015-02-06 | test (once, as held-out house) / train (other folds) |
+| 3 | 2013-09-25 | 2015-06-02 | 2015-01-31 | test (once, as held-out house) / train (other folds) |
+| 5 | 2013-09-26 | 2015-07-06 | 2015-02-15 | test (once, as held-out house) / train (other folds) |
+| 6 | 2013-11-28 | 2015-06-28 | 2015-02-18 | test (once, as held-out house) / train (other folds) |
+| 7 | 2013-11-01 | 2015-07-08 | 2015-02-21 | test (once, as held-out house) / train (other folds) |
+| 8 | 2013-11-01 | 2015-05-10 | 2015-01-23 | test (once, as held-out house) / train (other folds) |
+| 9 | 2013-12-17 | 2015-07-08 | 2015-03-10 | test (once, as held-out house) / train (other folds) |

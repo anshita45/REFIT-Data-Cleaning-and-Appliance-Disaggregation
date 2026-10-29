@@ -1,0 +1,26 @@
+data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Local datasets - download separately
+data/raw/
+data/clean/
+data/processed/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local virtual environments
+.venv/
+venv/
+
+# Python and test caches
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Temporary files
+*.log
